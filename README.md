@@ -1,7 +1,9 @@
 ![KNIGHTFALL](https://github.com/withingreatreasons/withingreatreasons/blob/3ea87435a9e3742c28fd733b4314676c91e18111/Illustration.png)
-![Profile View Counter](https://komarev.com/ghpvc/?username=withingreatreasons&color=bf3115&label=Vengeance)
-
 ####  $${\textsf{\color{#B81D00} “Cattle die, kinsmen die, sjálfr þú skalt deyja — but the fame of a great deed never dies.” - Hávamál }}$$
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=withingreatreasons&color=bf3115&label=FALLEN.)
+
+
 
 <details>
 <summary>$${\small\textsf{\color{#FF3912} About }}$$</summary>
@@ -48,12 +50,28 @@
 </details>
 
 <details>
-<summary>$${\small\textsf{\color{#FF3912} More Information (Pony Town, interacting, etc.) }}$$</summary>
+<summary>$${\small\textsf{\color{#FF3912} More Info (Pony Town, interacting, etc.) }}$$</summary>
   
   <br>
 
    <p align="left">
   <samp>
     <font size="2" color="#FF6240">
-     For Pony Town users: 
+     For Pony Town users: If you see me around, c + h/cudcomf is encouraged! I don't interact much as I am awkward and dry when first meeting people, however I do appreciate people trying to strike up a conversation with me. I may have DNI in my status sometimes, so when you do see it please don't interact but you can still sit with me. I don't normally set an AFK status but I may start doing so to let people know I am not currently at my device.
+    </font>
+  </samp>
+</p>
+
+ <p align="left">
+  <samp>
+    <font size="2" color="#FF6240">
+      When you do interact with me, keep in mind a few things. I am a very anxious, timid and cautious person. I like to tip-toe around people first time meeting them, basically calculating things in response to people because I do not want to accidentally offend or hurt someone. If I do end up saying something wrong, I deeply apologies and you have every right to call me out.
+   </font>
+  </samp>
+</p>
+
+ <p align="left">
+  <samp>
+    <font size="2" color="#FF6240">
+      I have slight anger issues, and sometimes my humor can be a bit skewed. I tend to get ticked off by sarcastic remarks or basically anything that annoys me (which can be random), however I am capable of controlling that anger. If I do end up lashing out because of sarcasm or a joke I didn't get, please let me know. This can also happen if I am in a bad mood (which I will make sure to put in my status too). I may rarely make insensitive jokes (kms/kys jokes) however if it makes you uncomfortable tell me.
 </details>
