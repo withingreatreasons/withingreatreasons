@@ -40,9 +40,20 @@
    <p align="left">
   <samp>
     <font size="2" color="#FF6240">
-  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, DAD (Decayed and Decrepit), VALKOREY (I cant remember the rest). 
+  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, DAD (Decayed and Decrepit), VALKOREY, Madness Combat (I cant remember the rest). 
   </font>
   </samp>
 </p>
 
+</details>
+
+<details>
+<summary>$${\small\textsf{\color{#FF3912} More Information (Pony Town, interacting, etc.) }}$$</summary>
+  
+  <br>
+
+   <p align="left">
+  <samp>
+    <font size="2" color="#FF6240">
+     For Pony Town users: 
 </details>
