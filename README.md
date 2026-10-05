@@ -46,7 +46,7 @@
    <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, DAD (Decayed and Decrepit), VALKOREY, Madness Combat (I cant remember the rest). 
+  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, DAD (Decayed and Decrepit), VALKOREY, Madness Combat, Limbus Company (I cant remember the rest). 
   </font>
   </samp>
 </p>
