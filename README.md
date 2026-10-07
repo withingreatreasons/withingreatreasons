@@ -77,7 +77,7 @@
  <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-      I have slight anger issues, and sometimes my humor can be a bit skewed. I tend to get ticked off by sarcastic remarks or basically anything that annoys me (which can be random), however I am capable of controlling that anger. If I do end up lashing out because of sarcasm or a joke I didn't get, please let me know. This can also happen if I am in a bad mood (which I will make sure to put in my status too). I may rarely make insensitive jokes (kms/kys jokes) however if it makes you uncomfortable tell me. One more thing, don't be weird/be flirty or anything like that.
+      I have slight anger issues, and sometimes my humor can be a bit skewed. I tend to get ticked off by sarcastic remarks or basically anything that annoys me (which can be random), however I am capable of controlling that anger. If I do end up lashing out because of sarcasm or a joke I didn't get, please let me know. This can also happen if I am in a bad mood (which I will make sure to put in my status too). I may rarely make insensitive jokes (kms/kys jokes) however if it makes you uncomfortable tell me. One more thing, don't be weird/be flirty or anything like that. Other than that, you're chill!
          </font>
   </samp>
 </p>
@@ -91,4 +91,5 @@
 $${\small\textsf{\color{#FF3912} I'm an artist, animator and a pianist! }}$$
 $${\small\textsf{\color{#FF3912} I'm a synpath (a person who strongly relates to and identifies with, rather than identifying as) }}$$
 $${\small\textsf{\color{#FF3912} I randomly follow people I find cool (THIS ISN'T STALKER BEHAVIOR GUYS I PROMISE) }}$$
-$${\small\textsf{\color{#FF3912} I am mostly within the MCYT fandom, as well as Nullscape and Hollow Knight/Silksong!! }}$$  
+$${\small\textsf{\color{#FF3912} I am mostly within the MCYT fandom, as well as Nullscape and Hollow Knight/Silksong!! }}$$ 
+$${\small\textsf{\color{#FF3912} You are welcome (if you want!) to become mutuals/oomfs. I don't mind the extra company! }}$$
