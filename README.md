@@ -84,6 +84,9 @@
 
 </details>
 
+
+<img align="left" width="250" src="https://github.com/withingreatreasons/withingreatreasons/blob/3007e9cd4c518e57c76543a8b42e63d848aade74/DAY%205.png" alt="INKTOBER">
+
 <p align="center">
   <font color="#FF6240">⋆⊱༻𖥸༺⊰⋆</font> ${\textsf{\color{#FF3912} EXTRA }}$ <font color="#FF6240">⋆⊱༻𖥸༺⊰⋆</font>
 </p>
@@ -91,5 +94,7 @@
 $${\small\textsf{\color{#FF3912} I'm an artist, animator and a pianist! }}$$
 $${\small\textsf{\color{#FF3912} I'm a synpath (a person who strongly relates to and identifies with, rather than identifying as) }}$$
 $${\small\textsf{\color{#FF3912} I randomly follow people I find cool (THIS ISN'T STALKER BEHAVIOR GUYS I PROMISE) }}$$
-$${\small\textsf{\color{#FF3912} I am mostly within the MCYT fandom, as well as Nullscape and Hollow Knight/Silksong!! }}$$ 
+$${\small\textsf{\color{#FF3912} I am mostly within the MCYT fandom, as well as Nullscape and Hollow Knight/Silksong!! }}$$
 $${\small\textsf{\color{#FF3912} You are welcome (if you want!) to become mutuals/oomfs. I don't mind the extra company! }}$$
+
+<br clear="left">
