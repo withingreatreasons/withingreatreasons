@@ -69,7 +69,7 @@
  <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-      When you do interact with me, keep in mind a few things. I am a very anxious, timid and cautious person. I like to tip-toe around people first time meeting them, basically calculating things in response to people because I do not want to accidentally offend or hurt someone. If I do end up saying something wrong, I deeply apologies and you have every right to call me out.
+      When you do interact with me, keep in mind a few things. I am a very anxious, timid and cautious person. I like to tip-toe around people first time meeting them, basically calculating things in response to people because I do not want to accidentally offend or hurt someone. If I do end up saying something wrong, I deeply apologies and you have every right to call me out. 
    </font>
   </samp>
 </p>
@@ -77,7 +77,7 @@
  <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-      I have slight anger issues, and sometimes my humor can be a bit skewed. I tend to get ticked off by sarcastic remarks or basically anything that annoys me (which can be random), however I am capable of controlling that anger. If I do end up lashing out because of sarcasm or a joke I didn't get, please let me know. This can also happen if I am in a bad mood (which I will make sure to put in my status too). I may rarely make insensitive jokes (kms/kys jokes) however if it makes you uncomfortable tell me. One more thing, don't be weird/be flirty or anything like that. Other than that, you're chill!
+      I may rarely make insensitive jokes, I do sincerely apologize if it does offend you and please let me know if you are uncomfortable with it. One more thing, don't be weird/be flirty or anything like that. Other than that, you're chill!
          </font>
   </samp>
 </p>
