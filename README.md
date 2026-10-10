@@ -30,7 +30,7 @@
     <font size="2" color="#FF6240">
       Please note that I tend to become very quiet at times because I lose interest in 
       talking/social battery becomes low. Another thing, anyone below 13+ or above 18+, 
-      please do not interact with me.
+      please do not interact with me!
     </font>
   </samp>
 </p>
@@ -46,7 +46,7 @@
    <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, DAD (Decayed and Decrepit), VALKOREY, Madness Combat, Limbus Company (I cant remember the rest). 
+  S:COTL (Sky: Children of the Light), SG:R (Star glitcher: Revitalized), Hollow Knight/Hollow Knight: Silksong, Omori, COS, BSD, Nullscape, Unstable Universe, Lifesteal, Whitepine, DAD (Decayed and Decrepit), SFAWTDE, TSFTL, VALKOREY, Madness Combat, Limbus Company (I cant remember the rest). 
   </font>
   </samp>
 </p>
@@ -69,7 +69,7 @@
  <p align="center">
   <samp>
     <font size="2" color="#FF6240">
-      When you do interact with me, keep in mind a few things. I am a very anxious, timid and cautious person. I like to tip-toe around people first time meeting them, basically calculating things in response to people because I do not want to accidentally offend or hurt someone. If I do end up saying something wrong, I deeply apologies and you have every right to call me out. 
+      When you do interact with me, keep in mind a few things. I am a very anxious, timid and cautious person. I like to tip-toe around people first time meeting them, basically calculating things in response to people because I do not want to accidentally offend or hurt someone. If I do end up saying something wrong, I deeply apologize and you have every right to call me out. 
    </font>
   </samp>
 </p>
